@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 4 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre las capturas de video, por eso te dejamos la explicación en este [video.](https://youtu.be/K8pHkrWc3Cg)
 
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/223284825-cced1282-4131-44d1-ba2d-649022d31466.jpg)
+![Miniatura YouTube curso SEO 3D morado (4)](https://user-images.githubusercontent.com/85022752/235784933-96e00488-d369-4e37-bb59-accb8ff70bf2.jpg)
 
 
 ### Instalación del entorno:
